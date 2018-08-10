@@ -54,3 +54,4 @@ construction of your own spherometer and then your own mirrors.
 Enjoy the struggle to manipulate the material world into precision instruments, and to think with 
 the minds and bodies of all those geniuses who have preceded us.
 
+(08/10/2018)
