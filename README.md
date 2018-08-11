@@ -1,4 +1,8 @@
 # spherometer
+
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/gsdavid/spherometer/blob/master/UseYourSpherometer.ipynb/master)
+.. image:: https://mybinder.org/badge.svg :target: https://mybinder.org/v2/gh/gsdavid/spherometer/blob/master/UseYourSpherometer.ipynb/master
+
 Math and code explaining how a spherometer works (for example, to make a telescope mirror).
 
 This is my first github project; the included Jupyter notebook project documents my struggles to 
