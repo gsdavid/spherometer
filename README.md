@@ -1,5 +1,12 @@
 # spherometer
 
+Apparently, the way github renders the source notebook IS NOT EXACTLY LIKE Jupyter itself.
+In particular, there seems to be an issue with using HTML to insert figures into a cell.
+In any case, the figures are not showing up here, but do show when rendered on my local 
+computer. I will have to look into this issue and see if there is a FAQ about it.
+
+
+
 Math and code explaining how a spherometer works (for example, to make a telescope mirror).
 
 This is my first github project; the included Jupyter notebook project documents my struggles to 
